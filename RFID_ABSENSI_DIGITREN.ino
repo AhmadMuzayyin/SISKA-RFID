@@ -14,7 +14,7 @@
 const char *WIFI_SSID = "Bensabuh";
 const char *WIFI_PASSWORD = "";
 
-String SERVER_URL = ""; // your api url
+String SERVER_URL = "https://www.mqalamin.sch.id/api/rfid/scan"; // your api url
 
 #define RC522_SS 5
 #define RC522_RST 4
